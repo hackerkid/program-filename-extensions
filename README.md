@@ -5,5 +5,5 @@
 | Language      | Source File Extension |
 | ------------- |:---------------------:|
 | c++           | .cpp                  |
-| Simula        | .sim                  |
 | Python        | .py                   |
+| Simula        | .sim                  |
