@@ -7,6 +7,8 @@
 | c             | .c                    |
 | c++           | .cpp                  |
 | Java          | .java                 |
+| JavaScript    | .js                   |
+| PHP           | .php                  |
 | Python        | .py                   |
-| Ruby 			| .rb 					|
+| Ruby    			| .rb 					        |
 | Simula        | .sim                  |
