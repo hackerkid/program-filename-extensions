@@ -4,14 +4,14 @@
 
 | Language      | Source File Extension |
 | ------------- |:---------------------:|
-| c             | .c                    |
-| c++           | .cpp, .c++, .cc, .C, .cxx, .CPP, .cp |
+| Bash          | .sh                   |
+| C             | .c                    |
+| C#            | .cs                   |
+| C++           | .cpp, .c++, .cc, .c, .cxx, .cpp, .cp |
 | Java          | .java                 |
 | JavaScript    | .js                   |
+| Perl          | .pl                   |
 | PHP           | .php                  |
 | Python        | .py                   |
 | Ruby    			| .rb 					        |
 | Simula        | .sim                  |
-| Perl          | .pl                   |
-| C#            | .cs                   |
-| Bash          | .sh                   |
