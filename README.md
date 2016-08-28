@@ -7,7 +7,7 @@
 | Bash          | .sh                   |
 | C             | .c                    |
 | C#            | .cs                   |
-| C++           | .cpp, .c++, .cc, .c, .cxx, .cpp, .cp |
+| C++           |  .C, .cc, .c++, .cp, .cpp, .CPP, .cxx|
 | Java          | .java                 |
 | JavaScript    | .js                   |
 | Perl          | .pl                   |
