@@ -15,3 +15,4 @@
 | Python        | .py                   |
 | Ruby    			| .rb 					        |
 | Simula        | .sim                  |
+| Swift         | .swift                |
