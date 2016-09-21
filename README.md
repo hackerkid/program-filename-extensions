@@ -10,6 +10,7 @@
 | C++           |  .C, .cc, .c++, .cp, .cpp, .CPP, .cxx|
 | Java          | .java                 |
 | JavaScript    | .js                   |
+| Objective-C   | .m                    |
 | Perl          | .pl                   |
 | PHP           | .php                  |
 | Python        | .py                   |
