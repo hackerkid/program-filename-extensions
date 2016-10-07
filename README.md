@@ -9,7 +9,9 @@
 | C#            | .cs                   |
 | C++           |  .C, .cc, .c++, .cp, .cpp, .CPP, .cxx|
 | Java          | .java                 |
+| Java Servlet  | .do                   |
 | JavaScript    | .js                   |
+| JSP           | .jsp                  |
 | Objective-C   | .m                    |
 | Perl          | .pl                   |
 | PHP           | .php                  |
