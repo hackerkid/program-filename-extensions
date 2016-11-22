@@ -19,3 +19,4 @@
 | Ruby    			| .rb 					        |
 | Simula        | .sim                  |
 | Swift         | .swift                |
+| R 			| .r 					|
